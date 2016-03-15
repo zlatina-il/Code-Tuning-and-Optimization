@@ -1,0 +1,14 @@
+using System;
+
+namespace AdvancedMath
+{
+    class AdvancedMath
+    {
+        static void Main()
+        {
+            LnTests.LnFloat();
+            LnTests.LnDouble();
+            LnTests.LnDecimal();
+        }
+    }
+}
